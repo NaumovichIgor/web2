@@ -35,11 +35,9 @@ body {
 
 .content {
     background-color: #61f274;
-    padding: 20px 0;
     max-width: 960px;
-    margin-left: 40px;
-    margin-top: 50px;
-    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 #table{
